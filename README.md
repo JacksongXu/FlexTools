@@ -1,9 +1,9 @@
 <div align="center">
 # FlexTools
   
-#### A collection of samll bash/python scripts for IT developers.
+#### A collection of small bash/python scripts for IT developers.
 
-### Now all those tools are just tested and used on the linux.
+### Now all those tools are just tested and used on the Linux.
 
 </div>
 
