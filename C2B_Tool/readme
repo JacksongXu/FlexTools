@@ -1,0 +1,7 @@
+1. Tool Env
+  python[2,3]
+
+2. How to use this tool
+   ./C2B.py  -i C_Array_File  -o C_Array_File.bin
+
+   './C2B.py -h' for usage. 
